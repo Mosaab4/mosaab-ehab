@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Mosaab Ehab"
 theme = "hermit"
 
-disqusShortname = "personal-site-5"
 
 [author]
 	name = "Mosaab Ehab"
@@ -14,6 +13,7 @@ disqusShortname = "personal-site-5"
 
 
 [params]
+	disqusShortname = "personal-site-5"
 	dateform        = "Jan 2, 2006"
 	dateformShort   = "Jan 2"
 	dateformNum     = "2006-01-02"
