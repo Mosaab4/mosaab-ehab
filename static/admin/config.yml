@@ -50,7 +50,7 @@ collections:
         widget: "list"
 
       - label: "Cover Image"
-        name: "coverImage"
+        name: "featuredImg"
         required: false
         widget: "image"
 
