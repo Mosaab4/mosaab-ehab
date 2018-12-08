@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Mosaab Ehab"
 theme = "hermit"
 
+disqusShortname = "personal-site-5"
+
 [author]
 	name = "Mosaab Ehab"
 
