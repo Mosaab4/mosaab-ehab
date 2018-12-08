@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "mosaabehab.netlify.com"
 languageCode = "en-us"
 title = "Mosaab Ehab"
 theme = "hermit"
