@@ -11,9 +11,7 @@ theme = "hermit"
   	tag = "tags"
   	category = "categories" 
 
-
 [params]
-	disqusShortname = "personal-site-5"
 	dateform        = "Jan 2, 2006"
 	dateformShort   = "Jan 2"
 	dateformNum     = "2006-01-02"
@@ -67,3 +65,5 @@ theme = "hermit"
 [blackfriday]
 	plainIDAnchors = true
 	hrefTargetBlank = true
+
+disqusShortname = "personal-site-5"
