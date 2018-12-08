@@ -1,4 +1,4 @@
-baseurl = "www.mosaabehab.netlify.com"
+baseurl = "https://mosaabehab.netlify.com/"
 languageCode = "en-us"
 title = "Mosaab Ehab"
 theme = "hermit"
