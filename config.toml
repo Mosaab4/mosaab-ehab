@@ -2,6 +2,7 @@ baseurl = "https://mosaabehab.netlify.com/"
 languageCode = "en-us"
 title = "Mosaab Ehab"
 theme = "hermit"
+disqusShortname = "personal-site-5"
 
 
 [author]
@@ -11,7 +12,9 @@ theme = "hermit"
   	tag = "tags"
   	category = "categories" 
 
+
 [params]
+	
 	dateform        = "Jan 2, 2006"
 	dateformShort   = "Jan 2"
 	dateformNum     = "2006-01-02"
@@ -22,7 +25,7 @@ theme = "hermit"
 	# footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 	# gitUrl = "https://github.com/Someone/SomeRepo/commit/" # Prefix of link to the git commit detail page. GitInfo must be enabled.
 	justifyContent = false  # Set "text-align: justify" to .content, requires extended version of Hugo
-	# bgImg = ""  #  Homepage background-image URL
+	# bgImg = "https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg"  #  Homepage background-image URL
 
 	# Social Icons
 	# Check https://github.com/Track3/hermit#social-icons for more info.
@@ -68,4 +71,4 @@ theme = "hermit"
 
 
 
-disqusShortname = "personal-site-5"
+
